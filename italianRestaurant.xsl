@@ -21,7 +21,7 @@
                                 </td>
                             </tr>
                             <xsl:for-each select="entree">
-                                <tr>
+                                <tr id="{position()}">
                                     <xsl:attribute name="v">
                                         <xsl:value-of select="boolean(./@v)" />
                                     </xsl:attribute>

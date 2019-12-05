@@ -6,11 +6,6 @@
       <description>Deep fried calamari rings with vegetable fritti, chilli and tomato dip</description>
       <price>9.00</price>
     </entree>
-    <entree>
-      <item>Pesto pot </item>
-      <description>Our in-house made basil, Padano DOP, pine-nuts  pesto served with fresh bread </description>
-      <price>5.20</price>
-    </entree>
     <entree v="true">
       <item>Patate arrosto al rosmarino </item>
       <description>Rosemary roasted  potatoes</description>
